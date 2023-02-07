@@ -1,5 +1,13 @@
 ### Hi there 👋
+- 😄 My name is Hai Dang Luong, you can call me Hai.
+- 🌱 I’m currently learning Bachelor of Data Science at S P Jain School of Global Management
+- 🔭 I’m currently looking for a job in Data Analyst or Bussiness Analyst roles.
+- ⛳ My skills: SQL, Python, Excel, Tableau, Power BI, React JS, Critical and Analytical thinking.
 
+-  Link to my LinkedIn: https://www.linkedin.com/in/hai-dang-luong-7a93a6134/
+-  I have some repos for some projects. Take a look around 😊😊!
+
+Thank you for visiting
 <!--
 **Dang123123hai/Dang123123hai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
