@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 😄 My name is Hai Dang Luong, you can call me Elias.
-- 🌱 I’m currently learning Bachelor of Data Science at S P Jain School of Global Management
-- 🔭 I’m currently looking for a job in Data Analyst or Bussiness Analyst roles.
-- ⛳ My skills: SQL, Python, Excel, Tableau, Power BI, React JS, Critical and Analytical thinking.
+- 🌱 I'm currently on Master of Information Technology degree at The University of Newcastle.  
+- 🔭 I’m currently looking for an IT job.
+- I'm confident that I can do anything and willing to learn to do anything.
+- ⛳ My skills: SQL, Python, Java, Excel, Tableau, Power BI, React JS, Critical and Analytical thinking.
 
 -  Link to my LinkedIn: https://www.linkedin.com/in/hai-dang-luong-7a93a6134/
 -  I have some repos for some projects. Take a look around 😊😊!
