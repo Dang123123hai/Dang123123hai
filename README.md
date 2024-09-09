@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<!--### Hi there 👋
 - 😄 My name is Hai Dang Luong, you can call me Elias.
 - 🌱 I'm currently on Master of Information Technology degree at The University of Newcastle.  
 - 🔭 I’m currently looking for an IT job.
